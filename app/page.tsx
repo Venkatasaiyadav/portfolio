@@ -550,7 +550,7 @@ export default function Portfolio() {
                 description:
                   "An AI-integrated farm management platform to monitor and optimize Vannamei prawn cultivation across 10+ operational panels. Designed secure REST APIs using Spring Security (RBAC) and built an interactive frontend dashboard utilizing React.js for real-time feed consumption, expense tracking, and predictive harvest timelines.",
                 tech: ["Spring Boot", "React.js", "MySQL", "AI Concepts"],
-                link: "#",
+                link: "https://github.com/Venkatasaiyadav/aqua-smart-farm",
               },
             ].map((project, index) => (
               <div
